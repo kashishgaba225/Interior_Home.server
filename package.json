@@ -1,0 +1,25 @@
+{
+  "name": "interior_home.server",
+  "version": "1.0.0",
+  "description": "This is my first Mern Stack Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashishgaba225/Interior_Home.server.git"
+  },
+  "author": "Kashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashishgaba225/Interior_Home.server/issues"
+  },
+  "homepage": "https://github.com/kashishgaba225/Interior_Home.server#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.1",
+    "nodemon": "^3.1.9"
+  }
+}
